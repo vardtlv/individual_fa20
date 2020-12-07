@@ -43,24 +43,24 @@ Below are a number of datasets about San Diego Parks & Recreation
 		- Data Dictionary (XLSX): `hciaccesstoparks-data-dictionary.xlsx` 
 	
 #### San Diego Budget Data
-	- Source: https://data.sandiego.gov/datasets/operating-actuals/
-	- Files Included: 
-		- Dataset (CSV): `actuals_operating_datasd.csv`
-		- Dictionary: `operating_actuals_dictionary_datasd.csv`	
+- Source: https://data.sandiego.gov/datasets/operating-actuals/
+- Files Included: 
+	- Dataset (CSV): `actuals_operating_datasd.csv`
+	- Dictionary: `operating_actuals_dictionary_datasd.csv`	
 		
 #### San Diego Crime Data
-	- Source: https://data.sandiego.gov/datasets/police-calls-for-service/
-	- Files Included: 
-		- Dataset (CSV, 2019): `pd_calls_for_service_2019_datasd.csv`
-		- Dataset (CSV, 2020): `pd_calls_for_service_2020_datasd.csv`
-		- Dictionary: `pd_calls_for_service_dictionary_datasd.csv`
+- Source: https://data.sandiego.gov/datasets/police-calls-for-service/
+- Files Included: 
+	- Dataset (CSV, 2019): `pd_calls_for_service_2019_datasd.csv`
+	- Dataset (CSV, 2020): `pd_calls_for_service_2020_datasd.csv`
+	- Dictionary: `pd_calls_for_service_dictionary_datasd.csv`
 			- See data dictionary for links to additional datasets you may need to understand the data in the datasets provided
 			
 #### California Environmental Health Screening Data
-	- Source: https://data.ca.gov/dataset/calenviroscreen-2-0
-	- Files Included:
-		- Dataset (CSV): `calenviroscreen-final-report.csv`
-		- Dictionary (XLSX): `cal-enviro-screen-data-dictionary.xlsx`
+- Source: https://data.ca.gov/dataset/calenviroscreen-2-0
+- Files Included:
+	- Dataset (CSV): `calenviroscreen-final-report.csv`
+	- Dictionary (XLSX): `cal-enviro-screen-data-dictionary.xlsx`
 
 		
 Possible other helpful resources/sources of data:
