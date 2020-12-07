@@ -34,7 +34,7 @@ Below are a number of datasets about San Diego Parks & Recreation
 			- Reviews: https://www.yelp.com/developers/documentation/v3/business_reviews
 			- Park Information: https://www.yelp.com/developers/documentation/v3/business_search
 			- Note: I've included some but not all fields, but for fields included, the variable (column) name corresponds to what you see in the documentation links included. In reviews dataset, `text` is the text from the review on Yelp.
-		- 
+
 #### CA Access to Parks Data
 - California Park, Beach, Open Space, or Coastline Access:
 	- Source:  https://data.ca.gov/dataset/park-beach-open-space-or-coastline-access
