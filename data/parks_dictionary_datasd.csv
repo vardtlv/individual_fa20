@@ -1,0 +1,8 @@
+field,field_type,description,possible_values
+objectid,Integer,Unique identifier,
+name,String,Short park name,
+alias,String,Long park name,
+gis_acres,Float,Number of acres calculated from polygon,
+park_type,String,Type of park,"Historic, Local, National, Open Space, Other, Regional, State"
+location,String,Location description,
+owner,String,Ownership,
